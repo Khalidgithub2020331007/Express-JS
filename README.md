@@ -13,4 +13,22 @@ npm install express
     npm install express nodemon
     node index.js
     nodemon index.js
-Those Command I use in VSCode 
+Those Command I use in VSCode to run a JS file where file name is index.
+<br><br>
+
+
+# To install pug
+
+    sudo apt update
+    sudo apt install nodejs npm
+    sudo npm install -g pug-cli
+    pug --version
+Follow this command in terminal of Ubuntu to install pug.
+<br><br>
+
+# Error: Cannot find module 'pug'
+
+    npm install pug --save
+    yarn add pug
+
+To solve this probelm, run this command in terminal
