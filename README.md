@@ -31,4 +31,9 @@ Follow this command in terminal of Ubuntu to install pug.
     npm install pug --save
     yarn add pug
 
-To solve this probelm, run this command in terminal
+To solve this probelm, run this command in terminal<br>
+<br>
+Create->POST<br>
+Read->GET<br>
+Update->PUT<br>
+Delet->Delete<br>
