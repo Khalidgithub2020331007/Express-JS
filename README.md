@@ -13,6 +13,9 @@ npm install express
     npm install express nodemon
     node index.js
     nodemon index.js
+    npm install express-session
+    npm install cookie
+
 Those Command I use in VSCode to run a JS file where file name is index.
 <br><br>
 
